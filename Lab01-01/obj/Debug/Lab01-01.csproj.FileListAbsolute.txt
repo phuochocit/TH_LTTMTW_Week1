@@ -1,0 +1,7 @@
+D:\C-sharp\Week01\Lab01-01\bin\Debug\Lab01-01.exe.config
+D:\C-sharp\Week01\Lab01-01\bin\Debug\Lab01-01.exe
+D:\C-sharp\Week01\Lab01-01\bin\Debug\Lab01-01.pdb
+D:\C-sharp\Week01\Lab01-01\obj\Debug\Lab01-01.csproj.AssemblyReference.cache
+D:\C-sharp\Week01\Lab01-01\obj\Debug\Lab01-01.csproj.CoreCompileInputs.cache
+D:\C-sharp\Week01\Lab01-01\obj\Debug\Lab01-01.exe
+D:\C-sharp\Week01\Lab01-01\obj\Debug\Lab01-01.pdb
